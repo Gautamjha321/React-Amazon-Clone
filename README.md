@@ -24,7 +24,7 @@ This project replicates the look and feel of the Amazon e-commerce interface wit
 
 | Home Page | Product Grid | Product Card |
 |-----------|---------------|--------------|
-| ![Home](screenshots/home.png) | ![Grid](screenshots/grid.png) | ![Card](screenshots/card.png) |
+| ![Home](public/Amazon.png) | ![Grid](public/Amazon-Home.png) | ![Card](public/Cart.png) |
 
 *(Add your actual screenshot files in a `screenshots/` folder)*
 
@@ -59,7 +59,7 @@ npm install
 # Start the development server
 npm start
 
-🌐 Live Demo
+🌐 Live Demo 
 🔗 Live Site
 📁 GitHub Repository
 
