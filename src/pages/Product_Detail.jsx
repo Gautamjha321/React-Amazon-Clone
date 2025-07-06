@@ -1,6 +1,6 @@
 import React, { useContext } from "react";
 import { useParams } from "react-router"; // ✅ correct import
-import { items } from "../context/data";
+import { items } from "../context/Data";
 import Products from "../components/Products";
 import DataContext from "../context/DataContext";
 import "./ProductDetail.css";

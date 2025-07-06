@@ -1,6 +1,6 @@
 import React from "react";
 import { Link, useParams } from "react-router";
-import { items } from "../context/data";
+import { items } from "../context/Data";
 import Products from "../components/Products";
 
 const Search_Product = () => {

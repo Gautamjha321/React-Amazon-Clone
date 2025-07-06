@@ -9,7 +9,7 @@ import {
   FaRupeeSign,
 } from "react-icons/fa";
 import DataContext from "../context/DataContext";
-import { items } from "../context/data";
+import { items } from "../context/Data";
 
 const categories = [
   { name: "All Products", icon: <FaThLarge /> },
